@@ -20,9 +20,9 @@ const App = () => {
       <Carro modelo={"Moby"} marca={"Fiat"} />
       <Musico instrumento={"bateria"} banda={"offspring"} />
       <Musico instrumento={"guitarra"} banda={"calcinha preta"} /> */}
-      {/* <Interruptor />
-      <Contador /> */}
-      <Menu />
+      <Interruptor />
+      {/* <Contador /> */}
+      {/* <Menu /> */}
     </>
   );
 }
